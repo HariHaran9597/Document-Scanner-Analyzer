@@ -130,6 +130,14 @@ The system supports custom pattern matching for domain-specific entities:
    - Entity relationships
    - Categorized information
 
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/850bae48-27cd-4732-b498-9b6101b5b682)
+
+![image](https://github.com/user-attachments/assets/26eb2c82-43dc-4948-a9a7-2197f954ca7d)
+
+![image](https://github.com/user-attachments/assets/2e37a521-1c4a-4c97-82f6-3ffbdb7e3688)
+
 ## Contributing
 
 Feel free to submit issues, fork the repository, and create pull requests for any improvements.
